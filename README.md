@@ -5,12 +5,13 @@ OtrosLogViewer statistics based on anonymous data.
 
  Protocol | Percantage 
 ----------|-----------
- file     |        89% 
- sftp     |        11% 
+ file     |        88% 
+ sftp     |         5%
+ http     |         7%
 
 ## Search method
 Search method | Percentage
 --------------| ----------
-String contains |     88% 
-Regex           |     6%
-Query           |     6%
+String contains |     97% 
+Regex           |      1.5%
+Query           |      1.5%
